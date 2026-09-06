@@ -43,7 +43,7 @@ Use checkpoint-and-resume for longer training, avoid large parallel hyperparamet
 
 ## :material-hand-heart: Acknowledgements
 
-This course builds on [*Hands-on Artificial Intelligence for Physics*](https://nthu-phys591000.github.io/AIPHYS2023/intro.html) (PHYS591000), conceived and taught by **Prof. Pai-Hsien Jennifer Hsu** and **Prof. Shih-Chieh Hsu**. Its structure, its choice of physics problems, and much of its teaching approach follow the path they set, and this course would not exist without their work. Their 2023 course materials remain online and are worth reading alongside this course.
+This course is a new offering of [*Hands-on Artificial Intelligence (AI)*](https://nthu-phys591000.github.io/AIPHYS2023/intro.html) 物理與人工智慧（AI）實作, conceived and taught as PHYS591000 by **Prof. Pai-Hsien Jennifer Hsu** and **Prof. Shih-Chieh Hsu**. Its structure, its choice of physics problems, and much of its teaching approach follow the path they set, and this course would not exist without their work. Their 2023 course materials remain online and are worth reading alongside this course.
 
 The slides, notebooks, and assignments here have been rewritten for this offering; any errors in them are mine alone.
 

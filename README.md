@@ -1,4 +1,4 @@
-# Artificial Intelligence for Physical Sciences course website
+# Hands-on Artificial Intelligence (AI) course website
 
 An editable course-site skeleton built with [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/).
 

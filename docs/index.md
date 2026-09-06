@@ -3,7 +3,7 @@ hide:
   - toc
 ---
 
-# Artificial Intelligence for Physical Sciences
+# Hands-on Artificial Intelligence (AI) for Physical Sciences
 
 ## PHYS 5910-0 · Essential · Fall 2026
 
