@@ -1,0 +1,127 @@
+:root {
+  --md-primary-fg-color: #000000;
+  --md-primary-fg-color--light: #333333;
+  --md-primary-fg-color--dark: #000000;
+  --course-border: color-mix(in srgb, var(--md-default-fg-color) 14%, transparent);
+}
+
+.md-header {
+  box-shadow: 0 1px 0 var(--course-border);
+}
+
+.md-header__inner {
+  min-height: 4.32rem;
+}
+
+.md-header__button.md-logo {
+  margin: 0;
+  padding: 0.2rem;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+  width: 3.84rem;
+  height: 3.84rem;
+}
+
+.md-header__title {
+  font-weight: 650;
+}
+
+.course-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.course-card {
+  padding: 1rem 1.1rem;
+  border: 1px solid var(--course-border);
+  border-radius: 0.55rem;
+  background: var(--md-code-bg-color);
+}
+
+.course-card h3 {
+  margin-top: 0;
+}
+
+.schedule-table {
+  overflow-x: auto;
+}
+
+.schedule-table table {
+  min-width: 44rem;
+  font-size: 0.76rem;
+}
+
+.schedule-table th {
+  white-space: nowrap;
+}
+
+.schedule-table td:nth-child(1),
+.schedule-table td:nth-child(2),
+.schedule-table td:nth-child(4),
+.schedule-table td:nth-child(5),
+.schedule-table td:nth-child(6) {
+  white-space: nowrap;
+}
+
+.instructor-profile {
+  display: grid;
+  grid-template-columns: minmax(5rem, 6.5rem) minmax(0, 1fr);
+  gap: 1.5rem;
+  align-items: start;
+  margin: 1rem 0 2rem;
+}
+
+.instructor-photo {
+  display: block;
+  width: 100%;
+  aspect-ratio: 1;
+  object-fit: cover;
+  border-radius: 50%;
+  box-shadow: var(--md-shadow-z2);
+}
+
+.profile-placeholder {
+  display: grid;
+  width: 100%;
+  aspect-ratio: 1;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--md-primary-fg-color);
+  color: var(--md-primary-bg-color);
+  box-shadow: var(--md-shadow-z2);
+  font-size: 1.1rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+
+.instructor-details h3 {
+  margin-top: 0;
+}
+
+@media screen and (max-width: 52rem) {
+  .course-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .instructor-profile {
+    grid-template-columns: 1fr;
+  }
+
+  .instructor-photo {
+    max-width: 6.5rem;
+  }
+
+  .profile-placeholder {
+    max-width: 6.5rem;
+  }
+}
+
+.last-updated {
+  margin-top: -0.4rem;
+  color: var(--md-default-fg-color--light);
+  font-size: 0.68rem;
+}

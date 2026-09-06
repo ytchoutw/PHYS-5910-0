@@ -1,0 +1,12 @@
+config:
+  # Long table rows are clearer when kept on one source line.
+  MD013: false
+  # MkDocs Material uses intentional HTML wrappers for responsive layouts.
+  MD033: false
+  # Fenced blocks nested inside Material content tabs are indented, which
+  # MD046 cannot distinguish from indented-style code blocks.
+  MD046: false
+  # Section headings carry Material icon shortcodes, which MD051 slugifies into
+  # the anchor; MkDocs strips them. `mkdocs build --strict` checks these for real.
+  MD051: false
+
