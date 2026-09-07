@@ -17,7 +17,7 @@ This course develops practical machine-learning skills through physics datasets,
 ### :material-calendar-clock: Class
 
 **Time:** Monday 12:10–15:10, MnM5M6  
-**Dates:** 7 September–24 December 2026  
+**Dates:** 7 September–21 December 2026  
 **Room:** Physics Building 208 (物理館 208)  
 **Format:** 1.5 h lecture + 1 h 20 m notebook lab  
 **Language:** English

@@ -8,7 +8,7 @@ The schedule may be adjusted slightly to match the pace of the class. All sessio
 
 | Date | Session | Topic | Slides | Lab | Homework |
 | --- | ---: | --- | :-: | :-: | :-: |
-| 7 Sep | S1 | **Orientation and foundations** | | [Survey](https://forms.gle/cCxENLGH9jq99W5v9) | [Prerequisites](prerequisites.md) |
+| 7 Sep | S1 | **Orientation and foundations** | [Slides](https://drive.google.com/file/d/1iacoBe6nsl9V2XwA-9_HaYpm5_z2-qqX/view) | [Survey](https://forms.gle/cCxENLGH9jq99W5v9) | [Prerequisites](prerequisites.md) |
 | 14 Sep | S2 | **AI-assisted research workflow** | | | |
 | 21 Sep | S3 | **Understand your data** | | | |
 | 28 Sep | — | **No class — Teachers' Day** | n/a | n/a | |
