@@ -41,6 +41,18 @@ Use checkpoint-and-resume for longer training, avoid large parallel hyperparamet
 !!! warning "Do not rely on a queue during class"
     NSTC Core is for homework and final project training, not for in-class tasks.
 
+## :material-book-open-variant: Further reading
+
+Optional.
+
+- [*Hands-On Machine Learning with Scikit-Learn and PyTorch*](https://learning.oreilly.com/library/view/hands-on-machine-learning/9798341607972/)
+  — Aurélien Géron (O'Reilly, 2025). Classical methods in scikit-learn first,
+  then neural networks in PyTorch.
+
+!!! info "Getting access"
+    The NTHU Library holds this book in print and as an ebook, so there is no
+    need to buy a copy.
+
 ## :material-hand-heart: Acknowledgements
 
 This course is a new offering of [*Hands-on Artificial Intelligence (AI)*](https://nthu-phys591000.github.io/AIPHYS2023/intro.html) 物理與人工智慧（AI）實作, conceived and taught as PHYS591000 by **Prof. Pai-Hsien Jennifer Hsu** and **Prof. Shih-Chieh Hsu**. Its structure, its choice of physics problems, and much of its teaching approach follow the path they set, and this course would not exist without their work. Their 2023 course materials remain online and are worth reading alongside this course.
