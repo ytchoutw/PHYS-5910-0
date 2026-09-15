@@ -47,7 +47,7 @@ By the end of the semester, you should be able to:
 - produce a reproducible computational result.
 
 !!! note "First week"
-    The first week of class is an ungraded orientation, and everything covered in it can be caught up afterwards. The first graded assignment follows in the second week.
+    The first week of class is an orientation: neither the in-class lab nor the homework set in it counts towards your grade, and everything covered can be caught up afterwards.
 
 ## :material-calendar-check: Important dates
 
