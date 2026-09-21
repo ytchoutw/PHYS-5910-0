@@ -10,8 +10,8 @@ The schedule may be adjusted slightly to match the pace of the class. All sessio
 | --- | ---: | --- | :-: | :-: | :-: |
 | 7 Sep | S1 | **Orientation and foundations** | [:material-file-pdf-box: Slides](https://drive.google.com/file/d/1iacoBe6nsl9V2XwA-9_HaYpm5_z2-qqX/view) | [Survey](https://forms.gle/cCxENLGH9jq99W5v9) | [Prerequisites](prerequisites.md) |
 | 14 Sep | S2 | **AI-assisted research workflow** | [:material-file-pdf-box: Slides](https://drive.google.com/file/d/1w5nJYDYmcCdq05C53q62bBX3ykfGeiJD/view?usp=drive_link) | [:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1OHswkwDQ1th1VjNu2P2pyZ1rFhapoKbB?usp=sharing) · [Sol](https://drive.google.com/file/d/16ThL_f9YCLpT5H5dvEy2_RxzVIl2SROD/view?usp=drive_link) | n/a |
-| 21 Sep | S3 | **Understand your data** | [:material-file-pdf-box: Slides](https://drive.google.com/file/d/1PI0RcksCySpxMfJNcqKtn3IwgCAfCTqL/view?usp=drive_link) | [:simple-googlecolab: Notebook](https://drive.google.com/file/d/1flMUPFKyjI5D-086laZD4DFb7s4H2OVz/view?usp=sharing) | |
-| 28 Sep | — | **No class — Teachers' Day** | n/a | n/a | |
+| 21 Sep | S3 | **Understand your data** | [:material-file-pdf-box: Slides](https://drive.google.com/file/d/1PI0RcksCySpxMfJNcqKtn3IwgCAfCTqL/view?usp=drive_link) | [:simple-googlecolab: Notebook](https://drive.google.com/file/d/1flMUPFKyjI5D-086laZD4DFb7s4H2OVz/view?usp=sharing) | n/a |
+| 28 Sep | — | **No class — Teachers' Day** | n/a | n/a | [:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1FT9_R_jAvGw-pnejBZKlO8xXZuuwk98i?usp=sharing) |
 | 5 Oct | S4 | **Regression, loss, and optimisation** | | | |
 | 12 Oct | S5 | **Classification: kernels, trees, and boosting** | | | |
 | 19 Oct | S6 | **Neural networks** | | | |
