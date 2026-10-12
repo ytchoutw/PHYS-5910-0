@@ -13,7 +13,7 @@ The schedule may be adjusted slightly to match the pace of the class. All sessio
 | 21 Sep | S3 | **Understand your data** | [:material-file-pdf-box: Slides](https://drive.google.com/file/d/1PI0RcksCySpxMfJNcqKtn3IwgCAfCTqL/view?usp=drive_link) | [:simple-googlecolab: Notebook](https://drive.google.com/file/d/1flMUPFKyjI5D-086laZD4DFb7s4H2OVz/view?usp=sharing) | n/a |
 | 28 Sep | — | **No class — Teachers' Day** | n/a | n/a | [:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1FT9_R_jAvGw-pnejBZKlO8xXZuuwk98i?usp=sharing) |
 | 5 Oct | S4 | **Regression, loss, and optimisation** | [:material-file-pdf-box: Slides](https://drive.google.com/file/d/1NqLk_f2Az0g9ypSTUYz7lI5lhNH6YchI/view?usp=drive_link) | [:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1IMXJwf0yvqh-aqRKDnlaxTdYm1swS8JR?usp=sharing) | [:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1RY7S1fH5D-Ul5QEmPZ1ocAtl7_7VLY-d?usp=sharing) |
-| 12 Oct | S5 | **Classification: kernels, trees, and boosting** | | | |
+| 12 Oct | S5 | **Classification: kernels, trees, and boosting** | [:material-file-pdf-box: Slides](https://drive.google.com/file/d/11MlUsRVU7xNXp05WI8he-qL5AJOCWftj/view?usp=sharing) | [:simple-googlecolab: Notebook](https://drive.google.com/file/d/10LKcj09RrzxOGTgnRhr3PbomI-sjBUQr/view?usp=drive_link) | n/a |
 | 19 Oct | S6 | **Neural networks** | | | |
 | 26 Oct | — | **No class — Retrocession Day** | n/a | n/a | |
 | 2 Nov | S7 | **CNNs and inductive bias** | | | |
