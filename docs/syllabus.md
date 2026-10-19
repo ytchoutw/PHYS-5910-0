@@ -14,8 +14,8 @@ The schedule may be adjusted slightly to match the pace of the class. All sessio
 | 28 Sep | — | **No class — Teachers' Day** | n/a | n/a | [:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1FT9_R_jAvGw-pnejBZKlO8xXZuuwk98i?usp=sharing) |
 | 5 Oct | S4 | **Regression, loss, and optimisation** | [:material-file-pdf-box: Slides](https://drive.google.com/file/d/1NqLk_f2Az0g9ypSTUYz7lI5lhNH6YchI/view?usp=drive_link) | [:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1IMXJwf0yvqh-aqRKDnlaxTdYm1swS8JR?usp=sharing) | [:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1RY7S1fH5D-Ul5QEmPZ1ocAtl7_7VLY-d?usp=sharing) |
 | 12 Oct | S5 | **Classification: kernels, trees, and boosting** | [:material-file-pdf-box: Slides](https://drive.google.com/file/d/11MlUsRVU7xNXp05WI8he-qL5AJOCWftj/view?usp=sharing) | [:simple-googlecolab: Notebook](https://drive.google.com/file/d/10LKcj09RrzxOGTgnRhr3PbomI-sjBUQr/view?usp=drive_link) | n/a |
-| 19 Oct | S6 | **Neural networks** | [:material-file-pdf-box: Slides](https://drive.google.com/file/d/1YagIXDTtw9SzkrLrTG-ADrd-JXD5MRlp/view?usp=drive_link) | [:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1e1WMbK9osYzyUsrA4hnAiVFGpxR0Md8r?usp=sharing) | |
-| 26 Oct | — | **No class — Retrocession Day** | n/a | n/a | |
+| 19 Oct | S6 | **Neural networks** | [:material-file-pdf-box: Slides](https://drive.google.com/file/d/1YagIXDTtw9SzkrLrTG-ADrd-JXD5MRlp/view?usp=drive_link) | [:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1e1WMbK9osYzyUsrA4hnAiVFGpxR0Md8r?usp=sharing) | n/a |
+| 26 Oct | — | **No class — Retrocession Day** | n/a | n/a | [:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1epXfzfB5DObxO4yAI0u857UathO4eY-S?usp=sharing) |
 | 2 Nov | S7 | **CNNs and inductive bias** | | | |
 | 9 Nov | S8 | **Sequence models and time series** | | | |
 | 16 Nov | S9 | **Consolidation and invited seminar** | | | |
