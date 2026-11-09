@@ -17,7 +17,7 @@ The schedule may be adjusted slightly to match the pace of the class. All sessio
 | 19 Oct | S6 | **Neural networks** | [:material-file-pdf-box: Slides](https://drive.google.com/file/d/1YagIXDTtw9SzkrLrTG-ADrd-JXD5MRlp/view?usp=drive_link) | [:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1e1WMbK9osYzyUsrA4hnAiVFGpxR0Md8r?usp=sharing) | n/a |
 | 26 Oct | — | **No class — Retrocession Day** | n/a | n/a | [:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1epXfzfB5DObxO4yAI0u857UathO4eY-S?usp=sharing) |
 | 2 Nov | S7 | **CNNs and inductive bias** | [:material-file-pdf-box: Slides](https://drive.google.com/file/d/1UeuhSHDjDriZffJyro_TmtU5ewGP5Oo6/view?usp=drive_link) |[:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1N63svQEzERs1hoFGzGGxQSe213EX30Kv?usp=sharing) | [:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1AVvVRdCWzqIAOxCLI6AailM09gSULJhi?usp=sharing) |
-| 9 Nov | S8 | **Sequence models and time series** | | | |
+| 9 Nov | S8 | **Sequence models and time series** | [:material-file-pdf-box: Slides](https://drive.google.com/file/d/12JKkOtv2ZckRofgIPMzvIcd-y9zuBu1J/view?usp=sharing) | [:simple-googlecolab: Notebook](https://colab.research.google.com/drive/1zW-OTVp7NhLHehgZc1H53XcRzOGflyAW?usp=sharing) | [:material-presentation: Slides](https://docs.google.com/presentation/d/1G4MtqoAmAgVuxJ8QjYb1Wo2c8AG0Z4eNOAEUVoYKnvk/edit?usp=sharing) |
 | 16 Nov | S9 | **Consolidation and invited seminar** | | | |
 | 23 Nov | S10 | **Attention, transformers, and sets** | | | |
 | 30 Nov | S11 | **Autoencoders and variational autoencoders** | | | |
